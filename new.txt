@@ -1,0 +1,2 @@
+I am trying to clone Zomato Website Homepage using HTML & CSS only.
+To practice Git I will keep updating the project progress as I move ahead.
